@@ -11,7 +11,7 @@
     "material": [ "paper" ],
     "symbol": "?",
     "color": "black_white",
-    "skill": "spellcraft",
+    "skill": "fabrication",
     "required_level": 1,
     "max_level": 3,
     "intelligence": 10,
